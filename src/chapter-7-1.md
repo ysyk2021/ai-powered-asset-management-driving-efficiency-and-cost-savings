@@ -1,5 +1,4 @@
-Overview of AI Applications for Asset Tracking
-============================================================================================================
+
 
 Effective asset tracking is a critical component of asset management. By using AI-powered tools and technologies, organizations can gain greater visibility into their assets and optimize their use. In this chapter, we will explore some of the key AI applications for asset tracking.
 

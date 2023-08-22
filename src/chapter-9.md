@@ -1,5 +1,4 @@
-Chapter 8: AI Ethics and Governance for Asset Management
-========================================================
+
 
 As artificial intelligence (AI) becomes increasingly integrated into asset management, it is essential to address ethical considerations and develop governance frameworks to ensure responsible and ethical use of AI. In this chapter, we will explore ethical considerations, developing governance frameworks, and legal and regulatory considerations for AI implementation in asset management.
 

@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Asset Maintenance
-===================================================================================================================================
+
 
 Several organizations have successfully implemented artificial intelligence (AI) in their asset maintenance processes, achieving significant benefits such as reduced downtime and maintenance costs. In this chapter, we will showcase a few examples of successful AI implementations in asset maintenance.
 

@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Asset Management
-======================================================================================================================
+
 
 Assessing the effectiveness of artificial intelligence (AI) is essential to measuring its impact on asset management performance. In this chapter, we will explore how to assess the effectiveness of AI for asset management.
 

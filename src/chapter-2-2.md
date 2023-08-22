@@ -1,5 +1,4 @@
-Types of AI used for asset management
-=======================================================================================
+
 
 Artificial intelligence (AI) has the potential to revolutionize asset management by improving efficiency and reducing costs. There are several types of AI used for asset management, each with unique capabilities and benefits. In this chapter, we will discuss the different types of AI used in asset management.
 

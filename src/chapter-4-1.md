@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Asset Management
-========================================================================================================================================
+
 
 Choosing the right AI tools and technologies is a critical step in implementing an effective AI-powered asset management strategy. There are many different tools and technologies available, each with its own strengths and weaknesses. In this chapter, we will provide an overview of some of the most commonly used AI tools and technologies for asset management.
 

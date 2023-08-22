@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Asset Management Performance
-==============================================================
+
 
 As artificial intelligence (AI) becomes more integrated into asset management, it is essential to measure its impact on performance and identify areas for improvement. In this chapter, we will explore how to assess the effectiveness of AI for asset management, identifying areas for improvement and refinement, and continuously adapting and improving your AI approach for asset management.
 

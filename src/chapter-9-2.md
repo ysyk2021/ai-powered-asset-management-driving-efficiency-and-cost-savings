@@ -1,5 +1,4 @@
-Developing governance frameworks to ensure responsible AI use
-=======================================================================================================================
+
 
 As organizations increasingly adopt artificial intelligence (AI) in asset management, it is essential to consider AI ethics and governance. AI can have significant impacts on society, and irresponsible AI use can lead to unintended consequences. In this chapter, we will discuss the importance of AI ethics and governance in asset management and how to develop governance frameworks to ensure responsible AI use.
 
