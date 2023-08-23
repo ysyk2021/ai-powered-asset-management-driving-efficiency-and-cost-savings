@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize asset maintenance by improving efficiency, reducing costs, and enhancing asset performance. In this chapter, we will provide an overview of the various AI applications for asset maintenance.
 
 Predictive maintenance

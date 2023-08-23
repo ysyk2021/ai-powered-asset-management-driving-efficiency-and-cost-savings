@@ -1,5 +1,4 @@
 
-
 Implementing artificial intelligence (AI) in asset management can provide significant benefits, including improved efficiency and cost savings. However, proper preparation is essential to ensure successful implementation. In this chapter, we will discuss how to prepare your business for AI implementation in asset management.
 
 Assessing your asset management needs and goals

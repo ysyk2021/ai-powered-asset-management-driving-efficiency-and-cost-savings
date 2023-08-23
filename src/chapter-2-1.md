@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly-evolving field that involves using computer systems to perform tasks that would normally require human intelligence. In the context of asset management, AI can be used to analyze data from various sources and provide insights into equipment performance, maintenance needs, and other key factors.
 
 Definition of AI

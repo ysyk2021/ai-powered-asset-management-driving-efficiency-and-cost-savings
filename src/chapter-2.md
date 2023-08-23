@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the way organizations manage their assets. By automating tasks, providing insights and predictions, and reducing errors, AI can improve asset performance and reduce maintenance costs. In this chapter, we will discuss the basics of AI for asset management.
 
 Definition of AI

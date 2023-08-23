@@ -1,5 +1,4 @@
 
-
 As organizations increasingly adopt artificial intelligence (AI) in asset management, it is essential to consider legal and regulatory considerations. AI can have significant impacts on society, and irresponsible AI use can lead to unintended consequences. In this chapter, we will discuss the importance of legal and regulatory considerations in AI implementation in asset management.
 
 Legal and Regulatory Frameworks for AI in Asset Management
