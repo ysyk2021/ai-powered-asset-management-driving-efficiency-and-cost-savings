@@ -17,3 +17,7 @@ The importance of AI in asset management cannot be overstated. By leveraging the
 Throughout this book, we will explore the benefits and challenges of AI-powered asset management and provide practical advice for successful implementation. Whether you are an asset manager, a financial analyst, or a business owner, this book is an essential guide to understanding and implementing AI in asset management to drive efficiency and cost savings.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
