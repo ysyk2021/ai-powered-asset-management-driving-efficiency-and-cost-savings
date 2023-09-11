@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations for AI Implementation in Asset Management
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the crucial topic of ethical considerations when implementing AI in asset management. We explore the potential ethical challenges and provide guidance on how organizations can ensure responsible and ethical use of AI technologies to drive efficiency and cost savings.
 

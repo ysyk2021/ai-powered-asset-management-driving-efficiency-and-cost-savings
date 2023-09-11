@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Asset Maintenance
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the diverse applications of artificial intelligence (AI) in asset maintenance. We explore how AI-powered technologies and techniques are revolutionizing traditional maintenance practices, driving efficiency, and generating cost savings across various industries.
 

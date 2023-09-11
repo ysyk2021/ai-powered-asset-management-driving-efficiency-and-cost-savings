@@ -1,5 +1,4 @@
-Chapter: Definition of AI
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide a comprehensive definition of Artificial Intelligence (AI) and explore its fundamental concepts. Understanding the essence of AI is crucial for grasping its potential in driving efficiency and cost savings in asset management.
 

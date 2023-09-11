@@ -1,5 +1,4 @@
-Chapter: Developing Governance Frameworks to Ensure Responsible AI Use
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of developing governance frameworks to ensure responsible AI use in asset management. We discuss key considerations and provide guidance on establishing effective governance structures that promote ethical practices, transparency, and accountability.
 

@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Asset Tracking
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various applications of Artificial Intelligence (AI) in asset tracking. By leveraging AI technologies such as machine learning, computer vision, and data analytics, organizations can enhance the tracking and monitoring of assets, improve visibility across the supply chain, and drive efficiency and cost savings.
 

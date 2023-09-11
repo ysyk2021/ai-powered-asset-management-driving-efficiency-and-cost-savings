@@ -1,5 +1,4 @@
-Chapter: Legal and Regulatory Considerations for AI Implementation in Asset Management
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the crucial legal and regulatory considerations when implementing AI in asset management. We explore key aspects that organizations need to consider to ensure compliance, protect data privacy, and navigate the evolving legal landscape surrounding AI technologies.
 

@@ -1,5 +1,4 @@
-Chapter: Key Factors to Consider When Choosing AI Tools
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the essential factors that organizations should consider when selecting AI tools for implementing AI-powered asset management systems. Making informed decisions about AI tool selection is crucial to ensure successful adoption and maximize the benefits of AI in driving efficiency and cost savings.
 

@@ -1,5 +1,4 @@
-Chapter: Identifying Potential Implementation Challenges
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore potential challenges that organizations may encounter when implementing AI-powered asset management. By identifying and understanding these challenges, organizations can proactively address them and ensure a successful implementation process.
 

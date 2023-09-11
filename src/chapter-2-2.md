@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Asset Management
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various types of Artificial Intelligence (AI) that are commonly used in asset management. These AI technologies enable organizations to leverage advanced analytics, automation, and intelligent decision-making to optimize asset performance, drive efficiency, and achieve cost savings.
 

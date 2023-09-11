@@ -1,5 +1,4 @@
-Chapter: Evaluating Data Availability and Quality
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of evaluating data availability and quality for successful AI-powered asset management. We explore key considerations and methods to assess data availability and quality, ensuring that organizations have reliable and relevant data to drive efficiency and cost savings.
 

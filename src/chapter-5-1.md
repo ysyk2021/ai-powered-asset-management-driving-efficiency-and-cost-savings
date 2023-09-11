@@ -1,5 +1,4 @@
-Chapter: Importance of Data Collection and Analysis for Asset Management
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we emphasize the crucial role of data collection and analysis in AI-powered asset management. Properly collecting, analyzing, and leveraging data enables organizations to make informed decisions, optimize asset performance, and drive efficiency and cost savings.
 

@@ -1,5 +1,4 @@
-Chapter: Best Practices for Data Collection and Preparation
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the best practices for data collection and preparation in the context of AI-powered asset management. Effective data collection and preparation are crucial steps to ensure accurate, reliable, and high-quality data for AI algorithms. By following these best practices, organizations can maximize the efficiency and effectiveness of their AI-driven asset management initiatives.
 

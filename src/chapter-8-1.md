@@ -1,5 +1,4 @@
-Chapter: Assessing the Effectiveness of AI for Asset Management
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of assessing the effectiveness of AI for asset management. We discuss key considerations, methodologies, and metrics to evaluate the impact of AI implementation on driving efficiency and cost savings in asset management practices.
 
